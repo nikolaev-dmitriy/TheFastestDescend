@@ -1,0 +1,6 @@
+c:\users\man\documents\visual studio 2015\Projects\TheFastestDescend\TheFastestDescend\bin\Debug\TheFastestDescend.exe.config
+c:\users\man\documents\visual studio 2015\Projects\TheFastestDescend\TheFastestDescend\bin\Debug\TheFastestDescend.exe
+c:\users\man\documents\visual studio 2015\Projects\TheFastestDescend\TheFastestDescend\bin\Debug\TheFastestDescend.pdb
+c:\users\man\documents\visual studio 2015\Projects\TheFastestDescend\TheFastestDescend\obj\Debug\TheFastestDescend.csprojResolveAssemblyReference.cache
+c:\users\man\documents\visual studio 2015\Projects\TheFastestDescend\TheFastestDescend\obj\Debug\TheFastestDescend.exe
+c:\users\man\documents\visual studio 2015\Projects\TheFastestDescend\TheFastestDescend\obj\Debug\TheFastestDescend.pdb
